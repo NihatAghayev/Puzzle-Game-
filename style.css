@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.baslik{
+    text-align: center;
+}
+.kutular{
+   text-align: center;  
+   margin: 10px;
+
+}
+.kart{
+ color: red;
+ display: inline-block;
+ height: 50px;
+ width: 50px;
+ margin: 40px;
+ background-color: aqua ;
+ border-radius: 6px;
+}
+.buton{
+    background-color: gray;
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    transition: transform 0.7s ,background-color 0.7s;
+}
+.kart.rotate{
+    transform: rotate(180deg);
+}
+.kart.blue{
+    background-color: blue;
+}
+#kart1.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart1.red{
+    background-color: red;
+}
+#kart2.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart2.green{
+    background-color:green ;
+}
+#kart3.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart3.yellow{
+    background-color:yellow ;
+}
+#kart4.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart4.green{
+    background-color:green ;
+}
+#kart5.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart5.blue{
+    background-color:blue ;
+}
+#kart6.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart6.yellow{
+    background-color:yellow ;
+}
+#kart7.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart7.gray{
+    background-color:gray ;
+}
+#kart8.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart8.red{
+    background-color:red ;
+}
+#kart9.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart9.firebrick{
+    background-color:firebrick ;
+}
+#kart10.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart10.gray{
+    background-color:gray ;
+}
+#kart11.rotate{
+    transform: rotate(180deg);
+    
+}
+#kart11.firebrick{
+    background-color:firebrick ;
+}
+
+
+
+
